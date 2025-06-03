@@ -7,7 +7,7 @@ A responsive, interactive GPA calculator tailored for KUET (Khulna University of
 ## 🚀 Features
 
 - 📌 Dynamic form generation based on the number of courses entered
-- 📊 GPA calculation using KUET’s 240-mark grading system
+- 📊 GPA calculation using KUET’s 300-mark grading system
 - 🎨 Clean and responsive UI (Bootstrap 4 + Google Fonts)
 - 📱 Mobile-friendly design
 - 💡 Shows grade, credit, and GPA instantly in a structured table
