@@ -30,7 +30,7 @@ A responsive, interactive GPA calculator tailored for KUET (Khulna University of
 2. Input fields are generated dynamically for:
    - Course name
    - Credit hours
-   - Marks (out of 240)
+   - Marks (out of 300)
 3. On form submission:
    - GPA is calculated using credit-weighted grade points
    - Grades are assigned based on mark thresholds
