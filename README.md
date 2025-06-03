@@ -58,10 +58,10 @@ A responsive, interactive GPA calculator tailored for KUET (Khulna University of
 ## 🖥️ File Structure
 
 KUET-GPA-Calculator/
-├── index.html # Main HTML layout
-├── style.css # Custom styling and background colors
-├── app.js # Dynamic logic and GPA computation
-└── README.md # This file
+├── index.html          # Main HTML layout
+├── style.css           # Custom styling and background colors
+├── app.js              # Dynamic logic and GPA computation
+└── README.md           # Project documentation
 
 ---
 
